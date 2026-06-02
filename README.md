@@ -25,12 +25,12 @@ The database (`lab3`) consists of four related tables:
  
 1. Run the schema and seed data first:
    ```sql
-   source lab3_part1.sql;
+   source Queries_part1.sql;
    ```
  
 2. Then run the queries:
    ```sql
-   source pbb579_lab3.sql;
+   source Queries_part2.sql;
    ```
  
 > Requires MySQL 8.0+
