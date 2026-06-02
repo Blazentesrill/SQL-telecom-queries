@@ -81,5 +81,5 @@ The database (`lab3`) consists of four related tables:
  
 | File | Description |
 |---|---|
-| `lab3_part1.sql` | Schema creation and seed data |
-| `pbb579_lab3.sql` | All query solutions |
+| `Queries_part1.sql` | Schema creation and seed data |
+| `Queries_part2.sql` | All query solutions |
